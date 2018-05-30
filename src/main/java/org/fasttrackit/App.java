@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello New World!" );
+        System.out.println("Commit from person 2.");
     }
 }
